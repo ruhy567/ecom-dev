@@ -1,0 +1,5 @@
+username : galibachowdhury56
+pass : CYH0fwVQw4QdbZ8h
+stripe pass : j%zP6/vry*abVN%
+mongodb+srv://galibachowdhury56:3RcDl8u2OJDtiEpz@cluster0.kogaa.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
